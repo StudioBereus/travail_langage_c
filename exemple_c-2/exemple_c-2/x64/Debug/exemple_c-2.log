@@ -1,0 +1,6 @@
+﻿  ex2.c
+C:\Users\osaly\source\repos\exemple_c-2\exemple_c-2\ex2.c(7,10): warning C4473: 'scanf_s' : nombre insuffisant d'arguments passés pour la chaîne de format
+C:\Users\osaly\source\repos\exemple_c-2\exemple_c-2\ex2.c(7,10): message : les espaces réservés et leurs paramètres attendent des arguments 2 variadiques, mais des arguments 1 ont été fournis
+C:\Users\osaly\source\repos\exemple_c-2\exemple_c-2\ex2.c(7,10): message : l'argument variadique manquant 2 est demandé par la chaîne de format '%c'
+C:\Users\osaly\source\repos\exemple_c-2\exemple_c-2\ex2.c(7,10): message : cet argument est utilisé comme taille de mémoire tampon
+  exemple_c-2.vcxproj -> C:\Users\osaly\source\repos\exemple_c-2\x64\Debug\exemple_c-2.exe
