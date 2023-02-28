@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\osaly\source\repos\exo-c-nombre-pairs\exo-c-nombre-pairs\Source.c(8,13): warning C4477: 'printf_s' : la chaîne de format '%d' nécessite un argument de type 'int', mais l'argument variadique 1 est de type 'char *'
+C:\Users\osaly\source\repos\exo-c-nombre-pairs\exo-c-nombre-pairs\Source.c(8,13): warning C4313: 'printf_s' : '%d' dans la chaîne de format est en conflit avec l'argument 1 de type 'char *'.
+  exo-c-nombre-pairs.vcxproj -> C:\Users\osaly\source\repos\exo-c-nombre-pairs\x64\Debug\exo-c-nombre-pairs.exe
